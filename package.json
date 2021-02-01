@@ -7,7 +7,8 @@
 		"total4": "latest"
 	},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ./index.js"
 	},
 	"keywords": ["empty", "project"],
 	"author": "Peter Širka",
